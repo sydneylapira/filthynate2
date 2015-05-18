@@ -17,8 +17,8 @@ html {
 
 /* Index */
 
-#index { 
-  background: url(../_img/paper.jpg) no-repeat center center fixed; 
+#index {
+  background: url(../_img/paper.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -39,8 +39,8 @@ html {
        opacity: 0;
     }
 }
-    
-    
+
+
 }
 
 header#index {
